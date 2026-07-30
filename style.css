@@ -4,15 +4,19 @@
   font-family: "Aref Ruqaa", serif;
 }
 
+body {
+  width: 1000px;
+}
+
 #container {
   display: flex;
   width: 100%;
-  min-height: 100vh;
+  min-height: 300vh;
 }
 
 #usersSection {
   width: 40%;
-  min-height: 100vh;
+  min-height: 300vh;
   text-align: center;
   background-color: #EAF2FF;
 }
@@ -67,7 +71,7 @@
 
 #postsSection {
   width: 60%;
-  min-height: 100vh;
+  min-height: 300vh;
   background-color: #F1F8F4;
 }
 
